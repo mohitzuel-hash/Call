@@ -1,0 +1,7 @@
+{
+  "name": "BabelCall AI",
+  "description": "A real-time voice call application with instant translation powered by Gemini Live. Speak in your language, and the other person hears you in theirs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
